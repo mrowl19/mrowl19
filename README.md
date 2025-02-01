@@ -1,7 +1,7 @@
 ﻿<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi 👋, I'm fachri maulana pakpahan</h1>
-<h3 align="center">A passionate fullstack developer in indonesia</h3>
+<h1 align="center">Hi 👋, I'm Maul</h1>
+<h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrfachri19&label=Profile%20views&color=0e75b6&style=flat" alt="mrfachri19" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 💬 Ask me about **react, next, nodejs**
+- 💬 Ask me about **react, next, nodejs, flutter**
 
 - ⚡ i am have experience +- 4 years**
 
